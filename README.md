@@ -23,3 +23,11 @@ Learning CloudFormation through build simple sample project.
 ## Caution
 
 - Your typescript output will create in `__dist__` folder when `Building` or `Deploying` source code.
+
+## App Building Versions
+
+- node => v16.16.0
+- npm => v8.15.0
+- aws-cdk => v2.36.0
+- aws-cli => aws-cli/1.25.36 Python/3.9.13 Darwin/21.6.0 botocore/1.27.36
+- typescript => v4.7.4
